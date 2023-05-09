@@ -1,0 +1,32 @@
+Kit de desenvolvimento java
+Para desenvolver java, precisamos desse kit
+Oracle é a empresa que está por trás do Java
+Buscamos o Java pela oracle
+
+JRE - Executa as aplicações java
+JDK - Java Development Kit é um conjunto de ferramentas e bibliotecas
+de software que permite o desenvolvimento de aplicativos Java.
+
+Versões LTS da JDK, são as que tem mais tempo de suporte, então damos preferencia
+na utilização dela
+
+IDE - Editor para desenvolver JAVA - IntelliJ
+facilita na criação e utilização de códigos para JAVA
+
+Build system - referesse a compilação do projeto e gerenciamentos de bibliotecas
+famosos são o Maven e Gradle
+
+O projeto deve ter uma versão jdk em que irá rodar. é comum ter várias versões da JDK
+na máquina.
+
+pasta src - source - costuma ter o código fonte do projeto com as classes do mesmo
+e alguns outros arquivos
+
+Main - É a classe principal do java, onde ele inicia o projeto
+
+alt + 1 fecha a perspectiva da estrutura do projeto
+
+System.out.println(""); printa no console.
+
+sempre vou ter um método e dentro desse método terei minhas instruções
+
