@@ -185,3 +185,6 @@ Recomenda-se usar espaços em branco para separar operadores, palavras-chave e e
 
 Exemplo: if (condicao) {.
 Use comentários para documentar seu código, explicando o que ele faz e por que ele faz isso. Comentários devem ser claros e concisos.
+
+expressões matemáticas no java seguem precedendicias. então devemos informar entre () o que 
+quero calcular primeiro
