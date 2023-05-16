@@ -134,6 +134,25 @@ public class Main {
 
         System.out.println(mensagem1);
 
+        int classificacao = (int) (media / 2);
+        System.out.println(classificacao);
+
+        int x = 10;
+        double y = x; //casting implicito, pois um double aceita um inteiro
+
+        double l = 10.5;
+        int m = (int) l;// casting explicito, pois um int não aceita um double, por isso informo para fazer a conversão
+        //aqui ele irá descartar a parte decimal e irá atribuir o 10
+
+        saudacao = "Olá, meu nome é ";
+        nome = "Alice ";
+        String continuacao = "e minha idade é ";
+        idade = 17;
+        System.out.println(saudacao + nome + continuacao + idade);
+
+
+
+
 
     }
 }
