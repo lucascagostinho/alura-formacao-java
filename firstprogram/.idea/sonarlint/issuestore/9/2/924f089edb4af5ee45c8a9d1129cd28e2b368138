@@ -1,0 +1,20 @@
+
+w
+java:S1192"UDefine a constant instead of duplicating this literal "Ano de lanÃ§amento: " 3 times.(ƒÇûÊşÿÿÿÿ8³ñî¯1
+7
+java:S1220""Move this file to a named package.8³ñî¯1
+_
+java:S1854"=Remove this useless assignment to local variable "filmNote2".(™ãè’ÿÿÿÿÿ8·ñî¯1
+Y
+java:S1854"<Remove this useless assignment to local variable "filmNote".(‘ŞÕü8·ñî¯1
+L	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8¸ñî¯1
+L	java:S106"+Replace this use of System.out by a logger.(ƒâà¿şÿÿÿÿ8¸ñî¯1
+L	java:S106"+Replace this use of System.out by a logger.(ïÖ Ïıÿÿÿÿ8¸ñî¯1
+L	java:S106"+Replace this use of System.out by a logger.(ƒÇûÊşÿÿÿÿ8¸ñî¯1
+L	java:S106"+Replace this use of System.out by a logger.(ñÑŠ‘úÿÿÿÿ8¸ñî¯1
+G	java:S106"+Replace this use of System.out by a logger.(ó»ÈÁ8¹ñî¯1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÔíŒŸÿÿÿÿÿ8¹ñî¯1
+J
+java:S1481"-Remove this unused "filmNote" local variable.(‘ŞÕü8¹ñî¯1
+P
+java:S1481".Remove this unused "filmNote2" local variable.(™ãè’ÿÿÿÿÿ8¹ñî¯1
